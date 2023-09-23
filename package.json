@@ -1,0 +1,22 @@
+{
+  "name": "cypressexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchwojko/CypressExample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchwojko/CypressExample/issues"
+  },
+  "homepage": "https://github.com/dchwojko/CypressExample#readme",
+  "devDependencies": {
+    "cypress": "^13.2.0"
+  }
+}
